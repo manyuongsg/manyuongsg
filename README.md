@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst| Social Impact Advocate | Predictive Modeler
 
-I am a Data Analyst transitioning from engineering with a core mission: using data to tackle pressing social challenges. I believe that behind every dataset are real people and real stories. My focus is on leveraging analytics and machine learning to address critical community issues—such as family violence and mental health crises. By turning complex data into empathetic, actionable insights, I aim to build proactive solutions that protect vulnerable communities and drive meaningful intervention.
+I am a Data Analyst transitioning from engineering with a core mission: using data to tackle pressing social challenges. I believe that behind every dataset are real people and real stories. My focus is on leveraging analytics and machine learning to address critical community issues such as family violence and mental health crises. By turning complex data into empathetic, actionable insights, I aim to build proactive solutions that protect vulnerable communities and drive meaningful intervention.
 
 - 🔭 **Current Focus:** Developing predictive risk frameworks for social and family development outcomes.
 - 🌱 **Learning:** Completing a Data Analytics Bootcamp at General Assembly (Graduating April 2026).
