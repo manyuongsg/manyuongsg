@@ -43,5 +43,5 @@ With a background in **Engineering and Operations**, I don't just look at number
 ### 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ong Manyu's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=manyuongsg&show_icons=true&theme=radical" alt="Ong Manyu's GitHub Stats" />
 </p>
