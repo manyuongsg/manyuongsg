@@ -4,8 +4,6 @@
 
 I am a data-driven leader with 9 years of experience in strategic planning, data governance, and project management. I specialize in bridging the gap between technical data requirements and policy outcomes, using SQL, Python, and Power BI to support strategic decision-making. 
 
-My career is defined by driving measurable results, including managing large datasets to achieve **S$2M in annual cost savings** and **20-30% process efficiency gains**.
-
 - 🔭 **Current Focus:** Developing predictive risk frameworks for social and family development outcomes.
 - 🌱 **Learning:** Completing a Data Analytics Bootcamp at General Assembly (Graduating April 2026).
 - 💬 **Ask me about:** Technical-to-policy translation, longitudinal data tracking, and SQL optimization.
