@@ -40,7 +40,7 @@ Project | Tech Stack | Impact & Insights |
 
 ### 💡 Why Me?
 
-With a background in **Engineering and Operations**, I don't just look at numbers—I look at processes. I bring a structured, problem-solving mindset to data, ensuring that every insight is backed by clean code and a "so what?" that drives real-world change.
+With a background in **Engineering and Operations**, I don't just look at numbers, I look at processes. I bring a structured, problem-solving mindset to data, ensuring that every insight is backed by clean code and a "so what?" that drives real-world change.
 
 ---
 
