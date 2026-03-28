@@ -38,13 +38,5 @@
 
 ---
 
-### 🚢 Professional Highlights
-
-* [cite_start]**Republic of Singapore Navy:** Led engineering and mission support teams, securing approval for operational protocols for 200+ personnel through data-driven business cases[cite: 29, 30, 31].
-* [cite_start]**Operational Efficiency:** Reduced monthly logistics costs by **$60k** and saved **500 man-hours** through process automation[cite: 32, 36].
-* [cite_start]**Budget Management:** Achieved a **10% budget reduction** (S$2M) by developing Excel-based trend models to identify spending gaps[cite: 40].
-
----
-
 ### 📈 GitHub Stats
 ![Manyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manyuongsg&show_icons=true&theme=radical)
