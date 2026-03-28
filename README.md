@@ -1,4 +1,4 @@
-# Hi there, I'm Ong Manui 👋
+# Hi there, I'm Ong Manyu 👋
 
 ### 📊 Data Analyst | Problem Solver | Insight Seeker
 
