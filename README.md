@@ -1,12 +1,12 @@
 # Hi there, I'm Ong Manyu 👋
 
-### 📊 Data Analyst | Problem Solver | Insight Seeker
+### 📊 Data Analyst | Engineering Background | Strategic Modeler
 
-I specialize in transforming raw data into actionable stories. My work focuses on bridging the gap between complex datasets and strategic decision-making through rigorous analysis and clear visualization.
+I bridge the gap between technical engineering operations and data-driven strategy. Currently, I am focused on applying machine learning to social and public sector challenges, moving from "what happened" to "what will happen."
 
-- 🔭 **Current Focus:** Analyzing [Insert Industry, e.g., E-commerce Trends / Healthcare Data]
-- 🌱 **Learning:** Currently diving deeper into [Insert Tool, e.g., Machine Learning with Scikit-Learn]
-- 💬 **Ask me about:** SQL optimization, Python automation, and data storytelling
+- 🔭 **Current Focus:** Building predictive risk models for social services and analyzing public sector datasets (GE Singapore & UK Pay Gap).
+- 🌱 **Learning:** Advanced Machine Learning (XGBoost, CatBoost) and developing end-to-end triage applications.
+- 💬 **Ask me about:** Predictive modeling (kNN, Random Forests), SQL cleaning for complex public data, and transition stories from Engineering to Data.
 - 📫 **Connect with me:** [LinkedIn](Your-Link-Here) | [Portfolio Website](Your-Link-Here)
 
 ---
@@ -16,16 +16,5 @@ I specialize in transforming raw data into actionable stories. My work focuses o
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project Name | Key Tools | Insights & Impact |
-| :--- | :--- | :--- |
-| [**Project Title 1**](Link-to-Repo) | `Python`, `Seaborn` | Reduced data processing time by 30% using automated cleaning scripts. |
-| [**Project Title 2**](Link-to-Repo) | `SQL`, `Tableau` | Identified a 12% leak in the sales funnel through cohort analysis. |
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="
