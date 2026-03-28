@@ -1,12 +1,12 @@
 # Hi there, I'm Manyu 👋
 
-### 📊 Strategic Data Professional | 9 Years of Operations & Analytics Excellence
+### 📊 Data Analyst| Social Impact Advocate | Predictive Modeler
 
-I am a data-driven leader with 9 years of experience in strategic planning, data governance, and project management. I specialize in bridging the gap between technical data requirements and policy outcomes, using SQL, Python, and Power BI to support strategic decision-making. 
+I am a Data Analyst transitioning from engineering with a core mission: using data to tackle pressing social challenges. I believe that behind every dataset are real people and real stories. My focus is on leveraging analytics and machine learning to address critical community issues—such as family violence and mental health crises. By turning complex data into empathetic, actionable insights, I aim to build proactive solutions that protect vulnerable communities and drive meaningful intervention.
 
 - 🔭 **Current Focus:** Developing predictive risk frameworks for social and family development outcomes.
 - 🌱 **Learning:** Completing a Data Analytics Bootcamp at General Assembly (Graduating April 2026).
-- 💬 **Ask me about:** Technical-to-policy translation, longitudinal data tracking, and SQL optimization.
+- 💬 **Ask me about:** Predictive modeling (Gradient Boost, Random Forest), analyzing sensitive social data, and transitioning from Engineering to mission-driven Data Analytics.
 - 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/omanyu) | manyuongsg@gmail.com
 
 ---
@@ -20,8 +20,6 @@ I am a data-driven leader with 9 years of experience in strategic planning, data
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
 </p>
-
-**Analytics & Governance:** ETL, Data Harmonisation, Predictive Modeling, Trend Analysis.
 
 ---
 
@@ -38,7 +36,7 @@ Project | Tech Stack | Impact & Insights |
 
 ### 💡 Why Me?
 
-With a background in **Engineering and Operations**, I don't just look at numbers, I look at processes. I bring a structured, problem-solving mindset to data, ensuring that every insight is backed by clean code and a "so what?" that drives real-world change.
+I don't just look at numbers—I look at the human systems behind them. Coming from an Engineering and Operations background, I bring a structured, process-oriented mindset to the complex, often messy world of social data. I ensure that every insight is backed by clean code, rigorous testing, and a deep empathy for the end-user.
 
 ---
 
