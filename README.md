@@ -32,7 +32,7 @@ My career is defined by driving measurable results, including managing large dat
 Project | Tech Stack | Impact & Insights |
 | :--- | :--- | :--- |
 | **Family Violence Early Warning** (Link-to-Repo) | `Data Harmonisation`,`Machine Learning (Modelling)` | (In-Progress) Mapping longitudinal case variables to build a **predictive risk framework** for early intervention. |
-| **HDB Resale Pricing Predictor** (Link-to-Repo) | `Python`, `Scikit-Learn` | Synthesized **270,000 transactions** (2012–2025) to create a high-accuracy price predictor and town recommender. |
+| [**HDB Resale Pricing Predictor**](https://github.com/YourUsername/HDB-Resale-Predictor) | `Python`, `Scikit-Learn` | Synthesized **270,000 transactions** (2012–2025) to create a high-accuracy price predictor and town recommender. |
 | **Singapore Election Analysis** (Link-to-Repo) | `Power BI`, `Python` | Longitudinal study of 14 General Elections identifying a **21% increase** in quality challenges. |
 | **UK Gender Pay Gap Analysis** (Link-to-Repo) | `SQL` | Evaluated 10,000+ employer records to uncover a **16.8% median pay gap trend** in Aviation and Education. |
 
