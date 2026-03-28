@@ -36,7 +36,7 @@ Project | Tech Stack | Impact & Insights |
 
 ### 💡 Why Me?
 
-I don't just look at numbers—I look at the human systems behind them. Coming from an Engineering and Operations background, I bring a structured, process-oriented mindset to the complex, often messy world of social data. I ensure that every insight is backed by clean code, rigorous testing, and a deep empathy for the end-user.
+I don't just look at numbers, I look at the human systems behind them. Coming from an Engineering and Operations background, I bring a structured, process-oriented mindset to the complex, often messy world of social data. I ensure that every insight is backed by clean code, rigorous testing, and a deep empathy for the end-user.
 
 ---
 
