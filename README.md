@@ -36,3 +36,16 @@ Project | Tech Stack | Impact & Insights |
 | [**Singapore Election Analysis**](Link-to-Repo) | `Power BI`, `Python` | Longitudinal study of 14 General Elections identifying a **21% increase** in quality challenges. |
 | [**UK Gender Pay Gap Analysis**](Link-to-Repo) | `SQL` | Evaluated 10,000+ employer records to uncover a **16.8% median pay gap trend** in Aviation and Education. |
 
+---
+
+### 💡 Why Me?
+
+With a background in **Engineering and Operations**, I don't just look at numbers—I look at processes. I bring a structured, problem-solving mindset to data, ensuring that every insight is backed by clean code and a "so what?" that drives real-world change.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=manyuongsg&show_icons=true&theme=radical" alt="Ong Manyu's GitHub Stats" />
+</p>
