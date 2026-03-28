@@ -1,47 +1,50 @@
-# Hi there, I'm Ong Manyu 👋
+# Hi there, I'm Manyu 👋
 
-### 📊 Data Analyst | Engineering Background | Strategic Modeler
+### 📊 Strategic Data Professional | 9 Years of Operations & Analytics Excellence
 
-I bridge the gap between technical engineering operations and data-driven strategy. Currently, I am focused on applying machine learning to social and public sector challenges, moving from "what happened" to "what will happen."
+[cite_start]I am a data-driven leader with 9 years of experience in strategic planning, data governance, and project management[cite: 4]. [cite_start]I specialize in bridging the gap between technical data requirements and policy outcomes, using SQL, Python, and Power BI to support strategic decision-making[cite: 6]. 
 
-- 🔭 **Current Focus:** Building predictive risk models for social services and analyzing public sector datasets (GE Singapore & UK Pay Gap).
-- 🌱 **Learning:** Advanced Machine Learning (XGBoost, CatBoost) and developing end-to-end triage applications.
-- 💬 **Ask me about:** Predictive modeling (kNN, Random Forests), SQL cleaning for complex public data, and transition stories from Engineering to Data.
-- 📫 **Connect with me:** [LinkedIn](Your-Link-Here) | [Portfolio Website](Your-Link-Here)
+[cite_start]My career is defined by driving measurable results, including managing large datasets to achieve **S$2M in annual cost savings** and **20-30% process efficiency gains**[cite: 5, 40].
+
+- [cite_start]🔭 **Current Focus:** Developing predictive risk frameworks for social and family development outcomes[cite: 7, 22].
+- [cite_start]🌱 **Learning:** Completing a Data Analytics Bootcamp at General Assembly (Graduating April 2026)[cite: 44].
+- [cite_start]💬 **Ask me about:** Technical-to-policy translation, longitudinal data tracking, and SQL optimization[cite: 6, 10, 12].
+- [cite_start]📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/omanyu) | omanyu91@gmail.com [cite: 2]
 
 ---
 
 ### 🛠️ My Toolbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
 </p>
 
+[cite_start]**Analytics & Governance:** ETL, Data Harmonisation, Predictive Modeling, Trend Analysis[cite: 10, 11].
+
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Data Projects
 
-| Project Name | Key Tools | Insights & Impact |
+| Project | Tech Stack | Impact & Insights |
 | :--- | :--- | :--- |
-| [**Domestic Violence Risk Prediction**](Link-to-Repo) | `Python`, `Scikit-learn`, `kNN` | Built a triage model to identify high-risk families for social service intervention in Singapore. |
-| [**SG Parliamentary Election Analysis**](Link-to-Repo) | `SQL`, `Python`, `Pandas` | Cleaned and visualized multi-year election data to uncover shifting demographic voting patterns. |
-| [**UK Gender Pay Gap Study**](Link-to-Repo) | `Python`, `Tableau` | Conducted deep-dive analysis into industry-specific pay disparities with executive-level storytelling. |
+| **HDB Resale Pricing Predictor** | `Python`, `Scikit-Learn` | [cite_start]Synthesized **270,000 transactions** (2012–2025) to create a high-accuracy price predictor and town recommender[cite: 18, 19]. |
+| **UK Gender Pay Gap Analysis** | `SQL` | [cite_start]Evaluated 10,000+ employer records to uncover a **16.8% median pay gap trend** in Aviation and Education[cite: 14, 15]. |
+| **Singapore Election Analysis** | `Power BI`, `Python` | [cite_start]Longitudinal study of 14 General Elections identifying a **21% increase** in quality challenges[cite: 16, 17]. |
+| **Family Violence Early Warning** | `Data Harmonisation` | (In-Progress) [cite_start]Mapping longitudinal case variables to build a **predictive risk framework** for early intervention[cite: 21, 22]. |
 
 ---
 
-### 💡 Why Me?
+### 🚢 Professional Highlights
 
-With a background in **Engineering and Operations**, I don't just look at numbers—I look at processes. I bring a structured, problem-solving mindset to data, ensuring that every insight is backed by clean code and a "so what?" that drives real-world change.
+* [cite_start]**Republic of Singapore Navy:** Led engineering and mission support teams, securing approval for operational protocols for 200+ personnel through data-driven business cases[cite: 29, 30, 31].
+* [cite_start]**Operational Efficiency:** Reduced monthly logistics costs by **$60k** and saved **500 man-hours** through process automation[cite: 32, 36].
+* [cite_start]**Budget Management:** Achieved a **10% budget reduction** (S$2M) by developing Excel-based trend models to identify spending gaps[cite: 40].
 
 ---
 
 ### 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=manyuongsg&show_icons=true&theme=radical" alt="Ong Manyu's GitHub Stats" />
-</p>
+![Manyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manyuongsg&show_icons=true&theme=radical)
