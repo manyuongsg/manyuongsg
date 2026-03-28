@@ -9,7 +9,7 @@ My career is defined by driving measurable results, including managing large dat
 - 🔭 **Current Focus:** Developing predictive risk frameworks for social and family development outcomes.
 - 🌱 **Learning:** Completing a Data Analytics Bootcamp at General Assembly (Graduating April 2026).
 - 💬 **Ask me about:** Technical-to-policy translation, longitudinal data tracking, and SQL optimization.
-- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/omanyu) | omanyu91@gmail.com
+- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/omanyu) | manyuongsg@gmail.com
 
 ---
 
