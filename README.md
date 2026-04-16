@@ -28,7 +28,7 @@ I am a Data Analyst transitioning from engineering with a core mission: using da
 Project | Tech Stack | Impact & Insights |
 | :--- | :--- | :--- |
 | [**Family Violence Early Warning**](https://github.com/manyuongsg/fsc-triage-model) | `Data Harmonisation`,`Machine Learning (Modelling)` | (In-Progress) Mapping longitudinal case variables to build a **predictive risk framework** for early intervention. |
-| [**HDB Resale Pricing Predictor and Town Recommender**]([https://github.com/YourUsername/HDB-Resale-Predictor](https://github.com/manyuongsg/HDB-Data-Sprint) | `Python`, `Scikit-Learn` | Synthesized **270,000 transactions** (2012–2025) to create a high-accuracy price predictor and town recommender. |
+| [**HDB Resale Pricing Predictor and Town Recommender**](https://github.com/manyuongsg/HDB-Data-Sprint) | `Python`, `Scikit-Learn` | Synthesized **270,000 transactions** (2012–2025) to create a high-accuracy price predictor and town recommender. |
 | [**Singapore Election Analysis**](https://github.com/manyuongsg/sg-election-analysis) | `Power BI`, `Python` | Longitudinal study of 14 General Elections identifying a **21% increase** in quality challenges. |
 | [**UK Gender Pay Gap Analysis**](https://github.com/manyuongsg/uk-pay-gap-study) | `SQL` | Evaluated 10,000+ employer records to uncover a **16.8% median pay gap trend** in Aviation and Education. |
 
