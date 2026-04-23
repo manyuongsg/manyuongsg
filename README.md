@@ -26,7 +26,7 @@ I am a Data Analyst transitioning from engineering with a core mission: using da
 | [**MSF FamilyGuard — Domestic Violence Risk Predictor**](https://github.com/manyuongsg/fsc-triage-model) | `Python`, `Scikit-learn`, `Machine Learning` | Built an ML risk triage tool achieving **97% recall** and **0.86 ROC-AUC**, enabling social workers to triage referrals in under 30 seconds. |
 | [**HDB Resale Pricing Predictor and Town Recommender**](https://github.com/manyuongsg/HDB-Data-Sprint) | `Python`, `LightGBM`, `Scikit-learn` | Team project synthesizing **270,000 transactions** (2012–2025) into a price predictor (~95% accuracy, ±$38K error) and town recommender (~99% accuracy). |
 | [**Singapore Election Analysis**](https://github.com/manyuongsg/sg-election-analysis) | `Power BI`, `Python` | Longitudinal study of 14 General Elections (1968–2025) tracking opposition vote share from **13.3% to 34.4%** and walkover seats collapsing from 51 to 1. |
-| [**UK Gender Pay Gap Analysis**](https://github.com/manyuongsg/uk-pay-gap-study) | `SQL` | Evaluated the UK's 2017 reporting mandate via **82,935 employer submissions**, uncovering a **16.8% median pay gap** concentrated in Aviation and Education. |
+| [**UK Gender Pay Gap Analysis**](https://github.com/manyuongsg/uk-pay-gap-study) | `SQL` | Evaluated the UK's 2017 reporting mandate via **82,935 employer submissions**, uncovering a **15.8% median pay gap** concentrated in Aviation and Education. |
 
 ---
 ### 💡 Why Me?
