@@ -5,10 +5,10 @@ I build systems that help people make better decisions under pressure such as fr
 
 **Currently transitioning** from 10 years in the Republic of Singapore Navy (marine engineering + logistics) into data analytics and data engineering with a focus on predictive modelling, social impact, and building infrastructure that scales.
 
-- 🔨 |  **Building:** Enhancing predictive risk model for domestic violence
-- 🎓 |  **Recently Completed:** AI Native Data Analytics Bootcamp @ General Assembly (April 2026)
-- ❔ |  **Ask Me About:** Predictive modeling (Logistic Regression, LightGBM, Random Forest), sensitive social datasets, career pivots
-- 🔗 |  **Connect:** [LinkedIn](https://linkedin.com/in/omanyu) · [manyuong.sg@gmail.com](mailto:manyu.sg@gmail.com)
+- 🔨 | **Building:** Enhancing predictive risk model for domestic violence
+- 🎓 | **Recently Completed:** AI Native Data Analytics Bootcamp @ General Assembly (April 2026)
+- ❔ | **Ask Me About:** Predictive modeling (Logistic Regression, LightGBM, Random Forest), sensitive social datasets, career pivots
+- 🔗 | **Connect:** [LinkedIn](https://linkedin.com/in/omanyu) · [manyuong.sg@gmail.com](mailto:manyu.sg@gmail.com)
 
 ---
 ### 🛠️ My Toolbox
