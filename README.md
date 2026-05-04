@@ -1,12 +1,14 @@
 # Hi there, I'm Manyu 👋
-### 📊 Data Analyst | Turning Complex Data Into Social Impact | Predictive Modeler
+### 📊 Data Analyst & Aspiring Data Engineer  ·  Social Impact  ·  ML Practitioner  ·  Ex-Navy Officer
 
-I am a Data Analyst transitioning from engineering with a core mission: using data to tackle pressing social challenges. I believe that behind every dataset are real people and real stories. My focus is on leveraging analytics and machine learning to address critical community issues such as family violence and public policy outcomes. By turning complex data into empathetic, actionable insights, I aim to build proactive solutions that protect vulnerable communities and drive meaningful intervention.
+I build systems that help people make better decisions under pressure such as from managing marine engineering crises at sea to now building predictive models that help social workers triage family violence cases in under 30 seconds. My edge is translating messy, high-stakes operational realities into clean, structured data pipelines and actionable insights for decision-makers who don't have time to guess.
 
-- 🔭 **Current Focus:** Developing predictive risk frameworks for social and family development outcomes.
-- 🌱 **Learning:** Completed a Data Analytics Bootcamp at General Assembly (April 2026).
-- 💬 **Ask me about:** Predictive modeling (Logistic Regression, LightGBM, Random Forest), analyzing sensitive social data, and transitioning from Engineering to mission-driven Data Analytics.
-- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/omanyu) | manyuong.sg@gmail.com
+**Currently transitioning** from 10 years in the Republic of Singapore Navy (marine engineering + logistics) into data analytics and data engineering with a focus on predictive modelling, social impact, and building infrastructure that scales.
+
+→ **Building:** Enhancing predictive risk model for domestic violence
+→ **Recently Completed:** AI Native Data Analytics Bootcamp @ General Assembly (April 2026)
+→ **Ask Me About:** Predictive modeling (Logistic Regression, LightGBM, Random Forest), sensitive social datasets, career pivots
+→ **Connect:** [LinkedIn](https://linkedin.com/in/omanyu) · [manyuong.sg@gmail.com](mailto:manyu.sg@gmail.com)
 ---
 ### 🛠️ My Toolbox
 <p align="left">
@@ -21,19 +23,112 @@ I am a Data Analyst transitioning from engineering with a core mission: using da
 ---
 ### 🚀 Featured Data Projects
 
-| Project | Tech Stack | Impact & Insights |
+| Project | Stack | Business Value / Impact |
 | :--- | :--- | :--- |
-| [**MSF FamilyGuard — Domestic Violence Risk Predictor**](https://github.com/manyuongsg/fsc-triage-model) | `Python`, `Scikit-learn`, `Machine Learning` | Built an ML risk triage tool achieving **97% recall** and **0.86 ROC-AUC**, enabling social workers to triage referrals in under 30 seconds. |
-| [**HDB Resale Pricing Predictor and Town Recommender**](https://github.com/manyuongsg/HDB-Data-Sprint) | `Python`, `LightGBM`, `Scikit-learn` | Team project synthesizing **270,000 transactions** (2012–2025) into a price predictor (~95% accuracy, ±$38K error) and town recommender (~99% accuracy). |
-| [**Singapore Election Analysis**](https://github.com/manyuongsg/sg-election-analysis) | `Tableau`, `Python` | Longitudinal study of 14 General Elections (1968–2025) tracking opposition vote share from **13.3% to 34.4%** and walkover seats collapsing from 51 to 1. |
-| [**UK Gender Pay Gap Analysis**](https://github.com/manyuongsg/uk-pay-gap-study) | `SQL` | Evaluated the UK's 2017 reporting mandate via **82,935 employer submissions**, uncovering a **15.8% median pay gap** concentrated in Aviation and Education. |
+| [**FamilyGuard — Domestic Violence Risk Predictor**](https://github.com/manyuongsg/fsc-triage-model) | `Python`, `Scikit-learn`, `Machine Learning` | Triage tool with 97% recall and 0.86 ROC-AUC. Cuts social worker referral triage from hours to <30 seconds. Built to minimise missed high-risk cases at the cost of false negatives. A deliberate, domain-informed decision |
+| [**HDB Resale Pricing Predictor and Town Recommender**](https://github.com/manyuongsg/HDB-Data-Sprint) | `Python`, `LightGBM`, `Scikit-learn` | Team project synthesizing **270,000 transactions** (2012–2025) into a price predictor (~95% accuracy, ±$38K error) and town recommender (~99% accuracy). Decision-ready output for buyers and agents.|
+| [**Singapore Election Analysis**](https://github.com/manyuongsg/sg-election-analysis) | `Tableau`, `Python` | Longitudinal study of 14 General Elections. Opposition vote share: 13.3% → 34.4%. Walkover seats: 51 → 1. Surfaces structural shifts invisible in single-cycle reporting. |
+| [**UK Gender Pay Gap Analysis**](https://github.com/manyuongsg/uk-pay-gap-study) | `SQL` | Evaluated the UK's 2017 reporting mandate via 82,935 employer submissions. Isolated a 15.8% median gap concentrated in Aviation and Education, sectors where headline equality narratives break down. |
 
 ---
 ### 💡 Why Me?
-I don't just look at numbers, I look at the human systems behind them. Coming from a 9-year Engineering and Operations background in the Navy and procurement, I bring a structured, process-oriented mindset to the complex, often messy world of social data. I ensure that every insight is backed by clean code, rigorous testing, and a deep empathy for the end-user.
+Ten years in the Republic of Singapore Navy taught me one thing about data: the wrong read at the wrong moment has real consequences. I managed live marine engineering systems on vessels, ran overseas deployment budgets under pressure, and led teams where structured thinking wasn't optional, it was the job.
+  
+That's exactly what I bring to data engineering and analytics. I build pipelines that don't break quietly. I write models where the failure modes are documented, not discovered in production. And I present findings the way a ship's captain needs them — clear, specific, and immediately actionable. I don't just surface patterns. I build infrastructure for decisions.
+
+---
+### 🧗‍♀️Beyond the Data
+<p align="left">
+  <a href="#" style="
+        display: inline-block;
+        background-color: #2c2c2c;
+        border: 1px solid #444;
+        color: #e0e0e0;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+        font-size: 13px;
+        text-decoration: none;
+        margin-right: 8px;
+        cursor: default;
+    ">Rock climbing</a>
+  <a href="#" style="
+        display: inline-block;
+        background-color: #2c2c2c;
+        border: 1px solid #444;
+        color: #e0e0e0;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+        font-size: 13px;
+        text-decoration: none;
+        margin-right: 8px;
+        cursor: default;
+    ">Bass guitar</a>
+  <a href="#" style="
+        display: inline-block;
+        background-color: #2c2c2c;
+        border: 1px solid #444;
+        color: #e0e0e0;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+        font-size: 13px;
+        text-decoration: none;
+        margin-right: 8px;
+        cursor: default;
+    ">Dialing in the perfect hot filter coffee</a>
+  <a href="#" style="
+        display: inline-block;
+        background-color: #2c2c2c;
+        border: 1px solid #444;
+        color: #e0e0e0;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+        font-size: 13px;
+        text-decoration: none;
+        margin-right: 0px;
+        cursor: default;
+    ">Ex-Navy tinkerer</a>
+</p>
+
+When I'm not writing queries or tuning models, I'm probably on a wall somewhere, noodling a bassline, or obsessing over brew ratios. The same precision applies.
 
 ---
 ### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=manyuongsg&show_icons=true&theme=radical" alt="Ong Manyu's GitHub Stats" />
-</p>
+<!-- =============================== CUSTOM CARDS SECTION ================================ -->
+  <!-- Note: This approach uses custom HTML/CSS for a specific visual match. The data is static and must be updated manually. -->
+  <div style="display: flex; gap: 16px; margin-bottom: 32px;">
+    <!-- Projects Card -->
+    <div style="
+        flex: 1;
+        background-color: #2c2c2c;
+        border: 1px solid #444;
+        border-radius: 12px;
+        padding: 24px;
+        font-family: sans-serif;
+    ">
+      <div style="color: #a0a0a0; font-size: 14px; margin-bottom: 12px; text-transform: uppercase;">Projects</div>
+      <div style="color: #e0e0e0; font-size: 36px; font-weight: bold; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;">4</div>
+    </div>
+
+    <!-- Primary Languages Card -->
+    <div style="
+        flex: 1;
+        background-color: #2c2c2c;
+        border: 1px solid #444;
+        border-radius: 12px;
+        padding: 24px;
+        font-family: sans-serif;
+    ">
+      <div style="color: #a0a0a0; font-size: 14px; margin-bottom: 12px; text-transform: uppercase;">Primary Languages</div>
+      <div style="color: #e0e0e0; font-size: 24px; font-weight: bold; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;">Python • SQL</div>
+    </div>
+  </div>
+
+  <!-- ================================ FOOTER SECTION ================================ -->
+  <p style="color: #a0a0a0; font-size: 14px; text-align: left;">
+    + GitHub Stats widget · Top Languages card · Contribution Streak (see full README below)
+  </p>
+</div>
