@@ -9,6 +9,7 @@ I build systems that help people make better decisions under pressure such as fr
 ➡️ **Recently Completed:** AI Native Data Analytics Bootcamp @ General Assembly (April 2026)
 ➡️ **Ask Me About:** Predictive modeling (Logistic Regression, LightGBM, Random Forest), sensitive social datasets, career pivots
 ➡️ **Connect:** [LinkedIn](https://linkedin.com/in/omanyu) · [manyuong.sg@gmail.com](mailto:manyu.sg@gmail.com)
+
 ---
 ### 🛠️ My Toolbox
 <p align="left">
