@@ -99,6 +99,6 @@ When I'm not writing queries or tuning models, I'm probably on a wall somewhere,
 ---
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyuongsg" alt="manyuongsg's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manyuongsg)" alt="manyuongsg's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyuongsg" alt="manyuongsg's Top Langs"/>
 </p>
