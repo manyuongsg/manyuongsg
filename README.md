@@ -98,38 +98,7 @@ When I'm not writing queries or tuning models, I'm probably on a wall somewhere,
 
 ---
 ### 📈 GitHub Stats
-<!-- =============================== CUSTOM CARDS SECTION ================================ -->
-  <!-- Note: This approach uses custom HTML/CSS for a specific visual match. The data is static and must be updated manually. -->
-  <div style="display: flex; gap: 16px; margin-bottom: 32px;">
-    <!-- Projects Card -->
-    <div style="
-        flex: 1;
-        background-color: #2c2c2c;
-        border: 1px solid #444;
-        border-radius: 12px;
-        padding: 24px;
-        font-family: sans-serif;
-    ">
-      <div style="color: #a0a0a0; font-size: 14px; margin-bottom: 12px; text-transform: uppercase;">Projects</div>
-      <div style="color: #e0e0e0; font-size: 36px; font-weight: bold; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;">4</div>
-    </div>
-
-    <!-- Primary Languages Card -->
-    <div style="
-        flex: 1;
-        background-color: #2c2c2c;
-        border: 1px solid #444;
-        border-radius: 12px;
-        padding: 24px;
-        font-family: sans-serif;
-    ">
-      <div style="color: #a0a0a0; font-size: 14px; margin-bottom: 12px; text-transform: uppercase;">Primary Languages</div>
-      <div style="color: #e0e0e0; font-size: 24px; font-weight: bold; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;">Python • SQL</div>
-    </div>
-  </div>
-
-  <!-- ================================ FOOTER SECTION ================================ -->
-  <p style="color: #a0a0a0; font-size: 14px; text-align: left;">
-    + GitHub Stats widget · Top Languages card · Contribution Streak (see full README below)
-  </p>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manyuongsg&show_icons=true&theme=radical&hide_border=true&hide_title=true&layout=compact" alt="manyuongsg's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyuongsg&theme=radical&hide_border=true&hide_title=true&layout=compact" alt="manyuongsg's Top Langs" />
+</p>
