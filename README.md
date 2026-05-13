@@ -3,7 +3,7 @@
 
 I build systems that help people make better decisions under pressure such as from managing marine engineering crises at sea to now building predictive models that help social workers triage family violence cases in under 30 seconds. My edge is translating messy, high-stakes operational realities into clean, structured data pipelines and actionable insights for decision-makers who don't have time to guess.
 
-**Currently transitioning** from 10 years in the Republic of Singapore Navy (marine engineering + logistics) into data analytics and data engineering with a focus on predictive modelling, social impact, and building infrastructure that scales.
+**Currently transitioning** from 10 years in the Republic of Singapore Navy (marine engineering + logistics) into data analytics with a focus on predictive modelling, social impact, and building infrastructure that scales.
 
 - 🔨 | **Building:** Enhancing predictive risk model for domestic violence
 - 🎓 | **Recently Completed:** AI Native Data Analytics Bootcamp @ General Assembly (April 2026)
