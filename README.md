@@ -40,58 +40,10 @@ That's exactly what I bring to data engineering and analytics. I build pipelines
 ---
 ### 🧗‍♀️Beyond the Data
 <p align="left">
-  <a href="#" style="
-        display: inline-block;
-        background-color: #2c2c2c;
-        border: 1px solid #444;
-        color: #e0e0e0;
-        padding: 6px 12px;
-        border-radius: 20px;
-        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-        font-size: 13px;
-        text-decoration: none;
-        margin-right: 8px;
-        cursor: default;
-    ">Rock climbing</a>
-  <a href="#" style="
-        display: inline-block;
-        background-color: #2c2c2c;
-        border: 1px solid #444;
-        color: #e0e0e0;
-        padding: 6px 12px;
-        border-radius: 20px;
-        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-        font-size: 13px;
-        text-decoration: none;
-        margin-right: 8px;
-        cursor: default;
-    ">Bass guitar</a>
-  <a href="#" style="
-        display: inline-block;
-        background-color: #2c2c2c;
-        border: 1px solid #444;
-        color: #e0e0e0;
-        padding: 6px 12px;
-        border-radius: 20px;
-        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-        font-size: 13px;
-        text-decoration: none;
-        margin-right: 8px;
-        cursor: default;
-    ">Dialing in the perfect hot filter coffee</a>
-  <a href="#" style="
-        display: inline-block;
-        background-color: #2c2c2c;
-        border: 1px solid #444;
-        color: #e0e0e0;
-        padding: 6px 12px;
-        border-radius: 20px;
-        font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-        font-size: 13px;
-        text-decoration: none;
-        margin-right: 0px;
-        cursor: default;
-    ">Ex-Navy tinkerer</a>
+  <img src="https://img.shields.io/badge/Rock_climbing-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Rock climbing" />
+  <img src="https://img.shields.io/badge/Bass_guitar-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Bass guitar" />
+  <img src="https://img.shields.io/badge/Dialing_in_the_perfect_hot_filter_coffee-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Dialing in the perfect hot filter coffee" />
+  <img src="https://img.shields.io/badge/Ex--Navy_tinkerer-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Ex-Navy tinkerer" />
 </p>
 
 When I'm not writing queries or tuning models, I'm probably on a wall somewhere, noodling a bassline, or obsessing over brew ratios. The same precision applies.
