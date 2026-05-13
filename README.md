@@ -1,5 +1,5 @@
 # Hi there, I'm Manyu 👋
-### 📊 Data Analyst & Aspiring Data Engineer  ·  Social Impact  ·  ML Practitioner  ·  Ex-Navy Officer
+### 📊 Data Analyst  ·  Social Impact  ·  ML Practitioner  ·  Ex-Navy Officer
 
 I build systems that help people make better decisions under pressure such as from managing marine engineering crises at sea to now building predictive models that help social workers triage family violence cases in under 30 seconds. My edge is translating messy, high-stakes operational realities into clean, structured data pipelines and actionable insights for decision-makers who don't have time to guess.
 
