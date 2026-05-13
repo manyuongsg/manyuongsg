@@ -8,7 +8,7 @@ I build systems that help people make better decisions under pressure such as fr
 - 🔨 | **Building:** Enhancing predictive risk model for domestic violence
 - 🎓 | **Recently Completed:** AI Native Data Analytics Bootcamp @ General Assembly (April 2026)
 - ❔ | **Ask Me About:** Predictive modeling (Logistic Regression, LightGBM, Random Forest), sensitive social datasets, career pivots
-- 🔗 | **Connect:** [LinkedIn](https://linkedin.com/in/omanyu) · [manyuong.sg@gmail.com](mailto:manyu.sg@gmail.com)
+- 🔗 | **Connect:** [LinkedIn](https://linkedin.com/in/omanyu) · [manyuong.sg@gmail.com](mailto:manyuong.sg@gmail.com)
 
 ---
 ### 🛠️ My Toolbox
@@ -99,6 +99,6 @@ When I'm not writing queries or tuning models, I'm probably on a wall somewhere,
 ---
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyuongsg)" alt="manyuongsg's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manyuongsg" alt="manyuongsg's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyuongsg" alt="manyuongsg's Top Langs"/>
 </p>
