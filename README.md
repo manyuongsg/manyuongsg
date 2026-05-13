@@ -40,10 +40,10 @@ That's exactly what I bring to data engineering and analytics. I build pipelines
 ---
 ### 🧗‍♀️Beyond the Data
 <p align="left">
-  <img src="https://img.shields.io/badge/Rock_climbing-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Rock climbing" />
-  <img src="https://img.shields.io/badge/Bass_guitar-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Bass guitar" />
-  <img src="https://img.shields.io/badge/Dialing_in_the_perfect_hot_filter_coffee-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Dialing in the perfect hot filter coffee" />
-  <img src="https://img.shields.io/badge/Ex--Navy_tinkerer-2c2c2c?style=flat-square&logoColor=e0e0e0" alt="Ex-Navy tinkerer" />
+  <img src="https://img.shields.io/badge/Rock_Climbing-E8591A?style=for-the-badge" alt="Rock climbing" />
+  <img src="https://img.shields.io/badge/Bass_Guitar-6D28D9?style=for-the-badge&logo=spotify&logoColor=white" alt="Bass guitar" />
+  <img src="https://img.shields.io/badge/Hot_Filter_Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Dialing in the perfect hot filter coffee" />
+  <img src="https://img.shields.io/badge/Ex--Navy_Tinkerer-003F87?style=for-the-badge" alt="Ex-Navy tinkerer" />
 </p>
 
 When I'm not writing queries or tuning models, I'm probably on a wall somewhere, noodling a bassline, or obsessing over brew ratios. The same precision applies.
