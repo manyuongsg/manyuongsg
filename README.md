@@ -51,6 +51,6 @@ When I'm not writing queries or tuning models, I'm probably on a wall somewhere,
 ---
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyuongsg" alt="manyuongsg's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyuongsg" alt="manyuongsg's Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manyuongsg&theme=github_dark" alt="manyuongsg's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manyuongsg&theme=github_dark" alt="manyuongsg's Top Languages"/>
 </p>
